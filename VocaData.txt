@@ -1,0 +1,367 @@
+come
+1
+verb
+to come|to go|to arrive|
+She came into the room and shut the door|She came slowly down the stairs|
+1
+to arrive|to appear|to turn up|
+like
+3
+verb
+to like|to enjoy|to be fond of|
+I like cats|Do you like fish?|
+1
+to be keen on|to enjoy|
+noun
+liking|
+I listed my likes and dislikes|It is not my likes|
+0
+adj
+similar|alike|
+They are not twins, but they are very like|
+0
+go
+3
+verb
+to go|to move|to depart|
+I want to go to the beach|She goes to school every day|
+1
+to travel|to move|to depart|
+noun
+going|
+It's a long go|The going was smooth|
+0
+adj
+going|
+I have a go phone|The go-kart was fast|
+0
+swim
+3
+verb
+to swim|to dive|to float|
+He can swim well|She swims in the pool every evening|
+1
+to dive|to float|to splash|
+noun
+swimming|
+Swim is good exercise|He enjoys a swim in the lake|
+0
+adj
+swimming|
+She's a swimmer|He's the fastest swimmer in the team|
+0
+gift
+3
+noun
+gift|present|offering|
+She received a beautiful gift|He gave her a lovely gift for her birthday|
+1
+present|token|offering|
+verb
+to gift|
+He gifts her a book|She gifts him a watch|
+0
+adj
+gifted|promotional|
+The gift bag comes with a free sample|The gift voucher includes a discount|
+0
+day
+3
+noun
+day|weekday|date|
+I had a busy day at work|He has a day off tomorrow|
+1
+weekday|sunset|date|
+verb
+to day|
+They dayed hard to meet the deadline|She days as a teacher|
+0
+adj
+daily|daytime|
+This is my day routine|She has a day job|
+0
+idea
+3
+noun
+idea|concept|notion|
+I have an idea for a new project|She has great ideas|
+1
+concept|thought|notion|
+verb
+to ideate|
+The idea popped into my head|She ideates spontaneously|
+0
+adj
+imaginary|mental|
+It's an idea scenario|The idea world is different|
+0
+work
+3
+noun
+work|job|occupation|
+I have a lot of work to do|She works hard to support her family|
+1
+job|employment|occupation|
+verb
+to work|
+I work at a software company|He worked on his project all night|
+0
+adj
+productive|efficient|
+The work environment is productive|The work process is efficient|
+0
+thing
+3
+noun
+thing|object|item|
+I need to buy a few things at the store|She packed her things and left|
+1
+object|item|stuff|
+verb
+to thing|
+Can you thing the door behind you?|She things her keys on the table|
+0
+adj
+similar|alike|
+They have a thing for vintage cars|The two dresses look thing|
+0
+week
+3
+noun
+week|seven days|seven-day period|
+I have a busy week ahead|She works 5 days a week|
+1
+seven days|workweek|seven-day period|
+verb
+to week|
+I weeked through a hectic schedule|She weeks at her new job|
+0
+adj
+weekly|weekly|
+We have a week meeting|The week sale is here|
+0
+time
+3
+noun
+time|moment|occasion|
+Time flies when you're having fun|He arrives on time|
+1
+moment|hour|occasion|
+verb
+to time|
+I time to read every night|She times to her family|
+0
+adj
+timely|accurate|
+It's the time opportunity|The time schedule is accurate|
+0
+man
+3
+noun
+man|guy|gentleman|
+He's a wise man|Men and women are equal|
+1
+guy|gentleman|male|
+verb
+to man|
+He maned up and faced the challenge|She mans the counter|
+0
+adj
+manly|masculine|
+That's a man thing|He's a manly man|
+0
+year
+3
+noun
+year|annual|calendar year|
+I graduated last year|She was born in the same year|
+1
+annual|twelve months|calendar year|
+verb
+to year|
+She hopes to year to see her dream come true|He years to celebrate his birthday|
+0
+adj
+yearly|annual|
+It's an year event|The year record is impressive|
+0
+number
+3
+noun
+number|quantity|figure|
+The number you dialed is not in service|There are a large number of books on the shelf|
+1
+quantity|figure|numeric|
+verb
+to number|
+Please number the pages|They number each box for easy tracking|
+0
+adj
+numerical|quantitative|
+The number limit is 10|The number measurement is accurate|
+0
+problem
+3
+noun
+problem|issue|complication|
+Solving this problem is challenging|She has a problem with her computer|
+1
+issue|trouble|complication|
+verb
+to problem|
+They problemed the situation calmly|She problems every obstacle with determination|
+0
+adj
+problematic|challenging|
+It's a problem task|The problem situation requires attention|
+0
+question
+3
+noun
+question|inquiry|interrogation|
+He asked a question about the project|She has a question for the teacher|
+1
+inquiry|query|interrogation|
+verb
+to question|
+I question my colleagues for input|She questions the motive behind the decision|
+0
+adj
+questionable|doubtful|
+The question mark is meaningful|The question behavior is suspicious|
+0
+sun
+3
+noun
+sun|star|daylight|
+The sun is shining brightly|She enjoys watching the sunset|
+1
+star|daylight|morning|
+verb
+to sun|
+The suns the beach all day|She suns by the pool|
+0
+adj
+sunny|bright|
+It's a sun hat|The sun-kissed look is beautiful|
+0
+book
+3
+noun
+book|literature|volume|
+I have a new book to read|She's reading a book for her class|
+1
+literature|publication|volume|
+verb
+to book|
+I booked a table at the restaurant|She books her flights online|
+0
+adj
+bookish|literary|
+It's a book club|The book market is thriving|
+0
+water
+3
+noun
+water|liquid|rain|
+I'm thirsty, can I have some water?|She loves drinking cold water|
+1
+liquid|beverage|rain|
+verb
+to water|
+I water the plants in the morning|She waters her garden every day|
+0
+adj
+watery|liquid|
+It's a water sport|The water bottle is cold|
+0
+home
+3
+noun
+home|house|residence|
+I'm going home after work|She loves her home|
+1
+house|residence|homeland|
+verb
+to home|
+I home my child after school|She homes her pet dog|
+0
+adj
+homely|domestic|
+It's a home project|The home renovation is complete|
+0
+food
+3
+noun
+food|cuisine|meal|
+I'm hungry, let's get some food|She enjoys cooking different foods|
+1
+cuisine|meal|nutrition|
+verb
+to food|
+She foods a delicious meal|He foods for his family every day|
+0
+adj
+foodie|culinary|
+It's a food festival|The food culture is diverse|
+0
+computer
+3
+noun
+computer|PC|electronic device|
+I use a computer for work|She's skilled with computers|
+1
+PC|laptop|electronic device|
+verb
+to computer|
+He computers his own computer|She computers software for a living|
+0
+adj
+computing|technical|
+It's a computer course|The computer skills are in demand|
+0
+school
+3
+noun
+school|educational institution|classroom|
+I have to pick up my child from school|She's a teacher at the school|
+1
+educational institution|academy|classroom|
+verb
+to school|
+They school from Monday to Friday|She schools kindergarten kids|
+0
+adj
+school|educational|
+It's a school project|The school curriculum is challenging|
+0
+language
+3
+noun
+language|tongue|communication|
+Learning a new language is exciting|She's fluent in multiple languages|
+1
+tongue|communication|linguistics|
+verb
+to language|
+He languages Mandarin|She languages French for her job|
+0
+adj
+linguistic|language|
+It's a language barrier|The language skills are impressive|
+0
+music
+3
+noun
+music|melody|tune|
+I love listening to music|She plays the piano and enjoys music|
+1
+melody|tune|soundtrack|
+verb
+to music|
+She musics beautifully|He musics in a band|
+0
+adj
+musical|musical|
+It's a music festival|The music industry is competitive|
+0
