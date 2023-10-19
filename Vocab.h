@@ -43,6 +43,7 @@ public:
 		std::cout << '\n';
 	}
 
+	// add one things
 	void addMeaning(std::string meaning) {
 		this->meanings.push_back(meaning);
 	}
@@ -57,7 +58,7 @@ public:
 		this->partOfSpeech = partOfSpeech;
 	}
 
-	void adjustMeaning(std::string oldMeaning, std::string newMeaning) {
+	void editMeaning(std::string oldMeaning, std::string newMeaning) {
 		for (int i = 0; i < meanings.size(); i++) {
 			if (meanings[i].compare(oldMeaning) == 0) {
 				meanings[i] = newMeaning;
@@ -66,7 +67,7 @@ public:
 		}
 	}
 
-	void adjustExample(std::string oldExample, std::string newExample) {
+	void editExample(std::string oldExample, std::string newExample) {
 		for (int i = 0; i < examples.size(); i++) {
 			if (examples[i].compare(oldExample) == 0) {
 				examples[i] = newExample;
@@ -75,7 +76,7 @@ public:
 		}
 	}
 
-	void adjustSynonym(std::string oldSynonym, std::string newSynonym) {
+	void editSynonym(std::string oldSynonym, std::string newSynonym) {
 		for (int i = 0; i < synonyms.size(); i++) {
 			if (synonyms[i].compare(oldSynonym) == 0) {
 				synonyms[i] = newSynonym;
@@ -84,6 +85,10 @@ public:
 		}
 	}
 
+	// getter
+	std::string getPOS() {
+		return this->partOfSpeech;
+	}
 
 	void serialize(std::ofstream &fbout) {
 		size_t size = partOfSpeech.size();
